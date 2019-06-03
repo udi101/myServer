@@ -3,25 +3,37 @@
             "id": 1,
             "firstName": "Udi",
             "lastName": "Mazor",
-            "birthDate": "1976-12-28 12:00:00"
+            "birthDate": "1974-08-28 16:00:00"
         },
         {
             "id": 2,
             "firstName": "Erez",
             "lastName": "Mazor",
-            "birthDate": "1976-12-28 12:00:00"
+            "birthDate": "2011-01-07 17:00:00"
         },
         {
             "id": 3,
             "firstName": "Mazal",
             "lastName": "Mazor",
-            "birthDate": "1976-12-28 12:00:00"
+            "birthDate": "1984-04-04 12:00:00"
         },
         {
             "id": 4,
             "firstName": "Avigail",
             "lastName": "Mazor",
-            "birthDate": "1976-12-28 12:00:00"
+            "birthDate": "2015-03-08 12:00:00"
+        },
+        {
+            "id": 5,
+            "firstName": "Ella",
+            "lastName": "Mazor",
+            "birthDate": "2015-03-08 12:00:00"
+        },
+        {
+            "id": 6,
+            "firstName": "Alona",
+            "lastName": "Mazor",
+            "birthDate": "2018-01-29 12:00:00"
         }
     ]
 }
