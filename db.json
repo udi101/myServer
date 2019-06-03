@@ -35,5 +35,30 @@
             "lastName": "Mazor",
             "birthDate": "2018-01-29 12:00:00"
         }
-    ]
+    ],
+    "SEO": {
+        "title": "This is title that is comming from the server",
+        "description": "This is description",
+        "meta": [{
+                "property": "og:image",
+                "content": "https://www.ynet.co.il/images/og/logo/www.ynet.co.il.png?ver=0.2"
+            },
+            {
+                "property": "og:image:type",
+                "content": "image/png"
+            },
+            {
+                "property": "og:image:type",
+                "content": "https://www.ynet.co.il/images/og/logo/www.ynet.co.il.png?ver=0.2"
+            },
+            {
+                "property": "og:image:width",
+                "content": "200"
+            },
+            {
+                "property": "og:image:height",
+                "content": "200"
+            }
+        ]
+    }
 }
