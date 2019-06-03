@@ -37,10 +37,11 @@
         }
     ],
     "SEO": {
-        "description": "This is description",
+        "homeTitle": "Bnei David Connect",
+        "homeDescription": "This is description",
         "meta": [{
                 "property": "og:image",
-                "content": "https://www.ynet.co.il/images/og/logo/www.ynet.co.il.png?ver=0.2"
+                "content": "https://media.licdn.com/dms/image/C4E0BAQEBmOuiRE3lgQ/company-logo_200_200/0?e=2159024400&v=beta&t=dUuSmJ7vvBiSz5NW0taopFdhHklFAMfWgtJQDxceuY4"
             },
             {
                 "property": "og:image:title",
@@ -59,6 +60,5 @@
                 "content": "200"
             }
         ]
-    },
-    "title": "This is a title from a service"
+    }
 }
