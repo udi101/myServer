@@ -2,8 +2,8 @@
     "directoryMarkers":{
         "totalCount":30,
         "markers":[
-            {"count": 1, "coordinates":{"lat":32.45, "lng":31.343},
-             {"count": 3, "coordinates":{"lat":32.25, "lng":31.143}
+            {"count": 1, "coordinates":{"lat":32.45, "lng":31.343}},
+             {"count": 3, "coordinates":{"lat":32.25, "lng":31.143}}
         ]
     },
     "workers": [{
