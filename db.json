@@ -1,10 +1,32 @@
 {
     "directoryMarkers":{
-        "totalCount":30,
-        "markers":[
-            {"count": 1, "coordinates":{"lat":32.45, "lng":31.343}},
-             {"count": 3, "coordinates":{"lat":32.25, "lng":31.143}}
-        ]
+      "totalCount": 12,
+      "markers": [
+        {
+          "count": 3,
+          "coordinates": { "lat": 32.324321, "lng": 34.987512 }
+        },
+        {
+          "count": 2,
+          "coordinates": { lat: 31.964321, lng: 34.907512 }
+        },
+        {
+          "count": 3,
+          "coordinates": { "lat": 32.124321, "lng": 34.787512 }
+        },
+        {
+          "count": 1,
+          "coordinates": { "lat": 31.524321, "lng": 35.127512 }
+        },
+        {
+          "count": 1,
+          "coordinates": { "lat": 31.964321, "lng": 34.507512 }
+        },
+        {
+          "count": 2,
+          "coordinates": { "lat": 31.124321, "lng": 34.757512 }
+        }
+      ]
     },
     "workers": [{
             "id": 1,
