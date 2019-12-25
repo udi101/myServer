@@ -1,33 +1,4 @@
 {
-    "directoryMarkers":{
-      "totalCount": 12,
-      "markers": [
-        {
-          "count": 3,
-          "coordinates": { "lat": 32.324321, "lng": 34.987512 }
-        },
-        {
-          "count": 2,
-          "coordinates": { "lat": 31.964321, "lng": 34.907512 }
-        },
-        {
-          "count": 3,
-          "coordinates": { "lat": 32.124321, "lng": 34.787512 }
-        },
-        {
-          "count": 1,
-          "coordinates": { "lat": 31.524321, "lng": 35.127512 }
-        },
-        {
-          "count": 1,
-          "coordinates": { "lat": 31.964321, "lng": 34.507512 }
-        },
-        {
-          "count": 2,
-          "coordinates": { "lat": 31.124321, "lng": 34.757512 }
-        }
-      ]
-    },
     "workers": [{
             "id": 1,
             "firstName": "Udi",
@@ -73,7 +44,7 @@
                 "content": "https://media.licdn.com/dms/image/C4E0BAQEBmOuiRE3lgQ/company-logo_200_200/0?e=2159024400&v=beta&t=dUuSmJ7vvBiSz5NW0taopFdhHklFAMfWgtJQDxceuY4"
             },
             {
-                "property":"og:title",
+                "property": "og:title",
                 "content": "Bnei David Alumni relationship"
             },
             {
@@ -93,5 +64,126 @@
                 "content": "200"
             }
         ]
-    }
+    },
+    "businesses": [{
+            "id": 1,
+            "name": "Faten Rock",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXzkCaGDbu9OF8P1saPAQwKgap08xRbPH9gOy7RuqRRdMlMzz&s",
+            "imageUrl": "https://antisemitism.org.il/wp-content/uploads/2019/09/nypd-patch-450x300.png",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "You have a business that you want to promote? Why sattle for the regular promotion site when you can harverst the power of the social media to your benefit?",
+            "descriptionHeader": "Build a facebook page",
+            "isPromoted": true,
+            "offerHeadline": "10% discount"
+        },
+        {
+            "id": 2,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://d1z7nbe99dk54b.cloudfront.net/platform/4182/user/thumb/d982f334-32f7-430b-82de-6ec5b9732179.jpg",
+            "imageUrl": "https://www.epochtimes.co.il/et/wp-content/uploads/2019/09/325_Northpole-Main-450x300.jpg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "Out planet is dying.. How could you look at your childrens face knowing you left them a hapitat they cany live in. That you were resonsible to such a huge amount of polution?",
+            "descriptionHeader": "Help us save the planet",
+            "isPromoted": true,
+            "offerHeadline": "20% discount for Alumni"
+        },
+        {
+            "id": 3,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://www.demicco.com/wp-content/uploads/2012/07/LinkedIn_Logo-1.png",
+            "imageUrl": "https://cdn1.bgu4u.co.il/wp-content/uploads/2018/04/20165540/shutterstock_224435719-450x300-1-450x300.jpg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "If you dont know your past - you will have no future. This is the time to visit the holly Jerusalem, to walk in the way Jesus from Nazeret walked and to breath the same air King david and knig Solomon breathed.",
+            "descriptionHeader": "Jerusalem - the holly city forever",
+            "isPromoted": true,
+            "offerHeadline": "25% discount"
+        },
+        {
+            "id": 5,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://ps.w.org/zero-bs-crm/assets/icon.svg?rev=2139985",
+            "imageUrl": "https://www.dalinet.co.il/wp-content/uploads/2018/09/1-2w-450x300-1-443x295.jpeg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "You want to impress your guest - start here. with our premiu, designed furniture you could impress your friends, family and work bodies for a very reaseanable amount of money",
+            "descriptionHeader": "Our furniture will make the difference",
+            "isPromoted": false,
+            "offerHeadline": "All books 1+1"
+        },
+        {
+            "id": 6,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://ps.w.org/promo/assets/icon-128x128.png?rev=1847591",
+            "imageUrl": "https://www.photoshwartz.co.il/wp-content/uploads/2018/08/Screen-Shot-2018-04-04-at-11.46.52-1024x683-450x300.png",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "Mazor bags are on. 1 company with 30 years of experience in manufactoring and fixing bags of all kind. we speciallize in leather bags and designed bags. ",
+            "descriptionHeader": "Mazor's bags. carry your life and more",
+            "isPromoted": false,
+            "offerHeadline": "20% discount"
+        },
+        {
+            "id": 7,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHi7tc-Cmah0B0GxZ0saUXl6oirtBfy98UgdE4yuGV0FI9CMtrCQ&s",
+            "imageUrl": "https://www.namalyafo.co.il/wp-content/uploads/2019/11/IMG_1174-450x300.jpg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "This is the best tine of out life. You can do anything for this sum. Like.. I love to play at the garden and somtomes to go to the brach",
+            "descriptionHeader": "Kesaria - the kings land",
+            "isPromoted": false,
+            "offerHeadline": "15% discount for staff"
+        },
+        {
+            "id": 8,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcIWhHDTTkC7kN24w83_O43tSDRR_jcezYgP-BggiHLProyB8aw&s",
+            "imageUrl": "https://www.savyondiagnostics.com/wp-content/uploads/2017/09/wsi-imageoptim-NanoCHIP-GIP-II-450x300.jpg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "This is the best tine of out life. You can do anything for this sum. Like.. I love to play at the garden and somtomes to go to the brach",
+            "descriptionHeader": "Architecture and Design",
+            "isPromoted": false,
+            "offerHeadline": "20% discount"
+        },
+        {
+            "id": 9,
+            "name": "Royal industrial Technologies ",
+            "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwib-U9d7XitZDgNh4Q563wMra_RnCY1Z6HqPMXcQsLbp4EaHy&s",
+            "imageUrl": "https://havaveadam.org/wp-content/uploads/2018/08/IMG_5170-450x300.jpg",
+            "industry": "Industrial Automation",
+            "location": {
+                "country": "Israel",
+                "city": "Qiryat Ono"
+            },
+            "description": "This is the best tine of out life. You can do anything for this sum. Like.. I love to play at the garden and somtomes to go to the brach",
+            "descriptionHeader": "Cherry tomatoes - Israel's best invention",
+            "isPromoted": false,
+            "offerHeadline": "30% discount!!"
+        }
+    ]
 }
