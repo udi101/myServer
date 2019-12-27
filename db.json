@@ -67,7 +67,7 @@
     },
     "businesses": [{
             "id": 1,
-            "name": "Faten Rock",
+            "name": "Facbook commercial pages",
             "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVXzkCaGDbu9OF8P1saPAQwKgap08xRbPH9gOy7RuqRRdMlMzz&s",
             "imageUrl": "https://antisemitism.org.il/wp-content/uploads/2019/09/nypd-patch-450x300.png",
             "industry": "Industrial Automation",
@@ -82,7 +82,7 @@
         },
         {
             "id": 2,
-            "name": "Royal industrial Technologies ",
+            "name": "The greens foundation ",
             "logoUrl": "https://d1z7nbe99dk54b.cloudfront.net/platform/4182/user/thumb/d982f334-32f7-430b-82de-6ec5b9732179.jpg",
             "imageUrl": "https://www.epochtimes.co.il/et/wp-content/uploads/2019/09/325_Northpole-Main-450x300.jpg",
             "industry": "Industrial Automation",
@@ -97,7 +97,7 @@
         },
         {
             "id": 3,
-            "name": "Royal industrial Technologies ",
+            "name": "Jerusalem tours",
             "logoUrl": "https://www.demicco.com/wp-content/uploads/2012/07/LinkedIn_Logo-1.png",
             "imageUrl": "https://cdn1.bgu4u.co.il/wp-content/uploads/2018/04/20165540/shutterstock_224435719-450x300-1-450x300.jpg",
             "industry": "Industrial Automation",
@@ -112,7 +112,7 @@
         },
         {
             "id": 5,
-            "name": "Royal industrial Technologies ",
+            "name": "ZBS furnitures",
             "logoUrl": "https://ps.w.org/zero-bs-crm/assets/icon.svg?rev=2139985",
             "imageUrl": "https://www.dalinet.co.il/wp-content/uploads/2018/09/1-2w-450x300-1-443x295.jpeg",
             "industry": "Industrial Automation",
@@ -127,7 +127,7 @@
         },
         {
             "id": 6,
-            "name": "Royal industrial Technologies ",
+            "name": "Mazor family's bags",
             "logoUrl": "https://ps.w.org/promo/assets/icon-128x128.png?rev=1847591",
             "imageUrl": "https://www.photoshwartz.co.il/wp-content/uploads/2018/08/Screen-Shot-2018-04-04-at-11.46.52-1024x683-450x300.png",
             "industry": "Industrial Automation",
@@ -142,7 +142,7 @@
         },
         {
             "id": 7,
-            "name": "Royal industrial Technologies ",
+            "name": "Kesaria tours inc",
             "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHi7tc-Cmah0B0GxZ0saUXl6oirtBfy98UgdE4yuGV0FI9CMtrCQ&s",
             "imageUrl": "https://www.namalyafo.co.il/wp-content/uploads/2019/11/IMG_1174-450x300.jpg",
             "industry": "Industrial Automation",
@@ -157,7 +157,7 @@
         },
         {
             "id": 8,
-            "name": "Royal industrial Technologies ",
+            "name": "firefox engineering",
             "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbcIWhHDTTkC7kN24w83_O43tSDRR_jcezYgP-BggiHLProyB8aw&s",
             "imageUrl": "https://www.savyondiagnostics.com/wp-content/uploads/2017/09/wsi-imageoptim-NanoCHIP-GIP-II-450x300.jpg",
             "industry": "Industrial Automation",
@@ -172,7 +172,7 @@
         },
         {
             "id": 9,
-            "name": "Royal industrial Technologies ",
+            "name": "Cherry tomatoes Arava",
             "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwib-U9d7XitZDgNh4Q563wMra_RnCY1Z6HqPMXcQsLbp4EaHy&s",
             "imageUrl": "https://havaveadam.org/wp-content/uploads/2018/08/IMG_5170-450x300.jpg",
             "industry": "Industrial Automation",
@@ -180,7 +180,7 @@
                 "country": "Israel",
                 "city": "Qiryat Ono"
             },
-            "description": "This is the best tine of out life. You can do anything for this sum. Like.. I love to play at the garden and somtomes to go to the brach",
+            "description": "Everybody loves vegetables, especially when they are fresh smelly. But what do you know about your vegetables? Who raised them? Could you improve their taste?  Are you sure that these are the best vegetables that you need to eat?",
             "descriptionHeader": "Cherry tomatoes - Israel's best invention",
             "isPromoted": false,
             "offerHeadline": "30% discount!!"
